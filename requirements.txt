@@ -1,5 +1,8 @@
+pip=9.0.1
+six=1.11
 flask
 flask-wtf
 flask-script
+mongoengine=0.13
 flask_mongoengine
 gunicorn

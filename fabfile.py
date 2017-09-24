@@ -7,7 +7,7 @@
 
 from fabric.api import *
 
-env.hosts = ['127.0.0.1']
+env.hosts = ['192.168.1.237']
 env.user = 'sss'
 env.password = 'sss'
 
